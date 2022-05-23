@@ -1,2 +1,2 @@
 # Data-Structures
-Veri yapıları dersinde yaptığım ödevler çalışmalar vb.
+Veri Yapıları dersi ödev projelerim ve çalışmalarım
